@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../web dev/weather/web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amazon"
+	}
+}
